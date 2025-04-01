@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m working on Software at Terminus/DemandScience as a Technical Lead Engineer focusing on Frontend. I work with my team on the client-side code for multiple applications and features.
-    - I focus on Frontend. And by that I mean:
+    - I focus on Frontend. By that I mean:
     - API usage & interactions
     - State Management
     - Error Handling
@@ -27,6 +27,10 @@
     - Peopleware By Tom DeMarco & Timothy Lister
     - Wiring the Winning Organization by Gene Kim and Steven J. Spear
     - I've got many books I enjoyed or learned a lot from. One day, I'll put a collection of content worth the time spent somewhere.
-💬 I like to work on many things. I tend to do hyper-research spikes. So, I've had the luxury of focusing on~ writing, airflow, insulation, flooring, home construction, kitchen design, and systems. These do end up being related to projects that I have worked on! However, not all my projects end up on Git Hub. Though, I'm happy to talk through them with others. Sometimes, I do theory crafting and expand my knowledge.
+- 💬 I like to work on many things. I tend to do hyper-research spikes. So, I've had the luxury of focusing on~
+    - Writing, airflow (household and PCs), insulation, flooring, home construction, kitchen design, and systems.
+    - And... baking/cooking!
+    - These do end up being related to projects that I have worked on!
+    - However, not all my projects end up on Git Hub. I'm happy to discuss them with others, and sometimes, I do theory crafting to expand my knowledge.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm obsessed with progression fantasy. Royal Road & Kindle Unlimited entertain.
+- ⚡ Fun fact: I'm obsessed with progression fantasy. Royal Road & Kindle Unlimited entertain. That and Cooking Competition shows~
