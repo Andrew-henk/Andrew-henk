@@ -7,9 +7,21 @@
 
 ## Professional Summary
 
-Technical Lead Engineer with 7+ years designing scalable web applications and leading cross-functional engineering teams. Specialized in frontend systems architecture, design systems, and technical strategy across enterprise applications. Currently expanding into full-stack development through an independent React Native language learning application. Proven ability to think at system-level while leveraging AI tools for enhanced productivity and bridging technical implementation with product strategy.
+Technical Lead Engineer with 8+ years transforming legacy systems into scalable, modern applications while leadingcross-functional teams through growth and crisis. Built comprehensive UI testing infrastructure that bridges engineering, product, and design teams. Expert in frontend systems architecture, quality automation, and design systems across enterprise applications. Currently expanding full-stack capabilities through React Native development while leveraging AI tools to accelerate development and enhance architectural decision-making.
 
-**Core Strengths:** Frontend systems & architecture • Angular/TypeScript expertise • Design systems & CI/CD • AI-enhanced development • Technical leadership • Product-minded engineering
+**Core Strengths:** Frontend systems & architecture • Angular/TypeScript expertise • UI testing automation & quality engineering • Design systems & CI/CD • AI-enhanced development • Technical leadership • Product-minded engineering
+
+## What Sets Me Apart
+- **UI Testing & QA Pipeline Expertise:** Built comprehensive visual testing infrastructure with Storybook/Chromatic,
+connecting engineering, product, and UX teams through automated component validation
+- **AI-Enhanced Productivity:** Early adopter of AI development tools (Claude, GitHub Copilot), achieving significant
+productivity gains in architecture planning, code review, and accelerated development cycles
+- **Product-Engineering Bridge:** Unique combination of deep technical skills and product ownership experience,
+conducting user research and defining product strategy alongside technical implementation
+- **Leadership Through Crisis:** Maintained product delivery and team velocity through multiple company downsizings,
+merger integration, and radical design changes
+- **Rapid Technology Adoption:** Successfully transitioned from Angular expert to full-stack React Native developer
+- **Remote Work Mastery:** 4+ years of successful remote leadership and collaboration across global teams
 
 ---
 
@@ -20,34 +32,30 @@ Technical Lead Engineer with 7+ years designing scalable web applications and le
 *May 2025 - Present*
 
 Architecting and developing a gamified language learning mobile application, serving as product owner, technical architect, and full-stack engineer for consumer-facing app.
-
 - **Frontend Architecture:** Designing scalable React Native architecture with TypeScript for cross-platform deployment
-- **Product Strategy:** Conducting user research, defining gamification mechanics, and iterating based on user engagement data
+- **Product Strategy:** Defining product roadmap, designing gamification mechanics, and architecting user engagement systems
 - **Full-Stack Development:** Building complete application stack with Supabase backend, real-time features, and PostgreSQL optimization
 - **AI-Enhanced Development:** Leveraging Claude and GitHub Copilot to accelerate development cycles and improve code quality
 - **System Design:** Implementing offline-first architecture, state management, and performance optimization strategies
+Technologies: React Native, TypeScript, Supabase, PostgreSQL, Claude AI, GitHub Copilot
 
-*Technologies: React Native, TypeScript, Supabase, PostgreSQL, Claude AI, GitHub Copilot*
-
+**Terminus (Demand Science)** | Remote  
+*Oct 2022 - May 2025*
 ### Technical Lead Engineer
-**Terminus (DemandScience)** | Remote  
-*Oct 2022 - May 2025 (2 yrs 8 mos)*
-
 Led frontend architecture and engineering through multiple strategic pivots, company merger, and team restructuring while transforming a bug-prone legacy application into a stable, scalable marketing analytics platform serving enterprise clients.
-
-- **System Stabilization & Architecture:** Transformed customer-facing application from high-bug legacy codebase to stable micro-frontend architecture, systematically rewriting core features with modern Angular/NX patterns
+- **System Stabilization & Architecture:** Transformed customer-facing application from high-bug legacy codebase to stable micro-frontend architecture using Agile/Scrum methodologies, systematically rewriting core features with modern Angular/NX patterns
+- **UI Testing & QA Infrastructure:** Architected Storybook/Chromatic visual testing pipeline as primary E2E and QA workflow, enabling automated validation and visual regression testing across features, pages, and component-driven design stack
+- **Quality Engineering & Cross-Team Alignment:** Bridged Product, UX, and Engineering teams through Storybook/Chromatic pipeline, enabling direct component validation and automated visual regression detection, improving cross-team collaboration and reducing design-dev handoff time
 - **Complex Feature Engineering:** Built dynamic advertising campaign builders that compiled user inputs into custom Terminus Query Language (TQL), enabling non-technical users to create sophisticated marketing queries
-- **Crisis Leadership:** Maintained product delivery through multiple company downsizings (team reduced from 6 to 2 engineers), merger integration, and radical design requirement changes in final months
-- **DevOps & Communication Infrastructure:** Implemented Storybook/Chromatic visual testing pipeline and Split.io feature flag management, significantly improving product-engineering-support team coordination
+- **Crisis Leadership:** Maintained product delivery through multiple company downsizings (team reduced from 6 to 2 engineers), merger integration, and radical design requirement changes
+- **DevOps & CI/CD Pipeline:** Designed automated testing and deployment pipeline with GitHub Actions, integrated Chromatic visual regression testing, and managed Split.io feature flags for safe rollouts, reducing deployment risks and accelerating release cycles
 - **Design System Navigation:** Successfully adapted through multiple design system transitions, leading team from custom design system to third-party component library adoption while maintaining development velocity
-- **Global Team Coordination:** Managed feature delivery across domestic and international contractor teams while establishing consistent code quality standards
+- **Global Team Coordination:** Managed feature delivery across domestic and international contractor teams while establishing consistent code quality standards and testing practices
 - **Emergency Response:** Consistently provided swift resolution for high-priority production issues, becoming primary escalation point for critical customer-facing problems
-
-*Technologies: Angular, NX, TypeScript, NgRx, GitHub Actions, Jest, Storybook, Chromatic, Split.io, TQL (Custom Query Language)*
 
 ### Senior Software Engineer
 **Terminus** | Remote  
-*May 2021 - Oct 2022 (1 yr 6 mos)*
+*May 2021 - Oct 2022*
 
 Contributed to frontend development and team processes while growing technical leadership capabilities.
 
@@ -57,7 +65,7 @@ Contributed to frontend development and team processes while growing technical l
 
 ### Senior Software Engineer
 **Open Text** | Remote  
-*Mar 2020 - May 2021 (1 yr 3 mos)*
+*Mar 2020 - May 2021*
 
 Developed legal software solutions using React during COVID-19 transition to fully remote work, collaborating with international teams.
 
@@ -69,7 +77,7 @@ Developed legal software solutions using React during COVID-19 transition to ful
 
 ### Software Developer
 **Tyler Technologies** | Denver, CO  
-*Jul 2018 - Mar 2020 (1 yr 9 mos)*
+*Jul 2018 - Mar 2020*
 
 Led frontend architecture transition from Java Spring to modern Angular web application for content management platform.
 
@@ -82,7 +90,7 @@ Led frontend architecture transition from Java Spring to modern Angular web appl
 
 ### Junior Software Engineer
 **Otis Elevator Co.** | United States  
-*Feb 2017 - Apr 2018 (1 yr 3 mos)*
+*Feb 2017 - Apr 2018*
 
 Contributed to IoT platform frontend development and marketing initiatives in agile environment.
 
@@ -95,26 +103,26 @@ Contributed to IoT platform frontend development and marketing initiatives in ag
 
 ## Technical Skills
 
-### **Frontend Architecture & Systems**
+### Frontend Architecture & Systems
 - **Expert:** Angular, TypeScript, JavaScript, System Design, Scalable Architecture
 - **Advanced:** NX Monorepos, Design Systems, State Management (NgRx, Redux)
 - **Proficient:** React, React Native, HTML5, CSS3, SCSS, JSX, Tailwind, PrimeNG
-
-### **Development Infrastructure**
+### Testing & Quality Automation
+- **Expert:** Storybook, Chromatic Visual Testing, Jest
+- **Advanced:** Cypress, UI Test Automation, Component Testing, Visual Regression Testing
+- **Proficient:** Karma/Jasmine, Testing Infrastructure, Test Strategy & Planning, Cross-team QA workflows
+### Development Infrastructure
 - **Expert:** Git, GitHub Actions, CI/CD Pipelines, Build Optimization
-- **Advanced:** Storybook, Chromatic, Testing Frameworks (Jest, Cypress, Karma/Jasmine)
-- **Proficient:** AWS, Octopus Deploy, Performance Monitoring
-
-### **Backend & Database**
+- **Advanced:** AWS, Octopus Deploy, Performance Monitoring, Automated Deployment
+- **Proficient:** Docker, Test Pipeline Integration, Feature Flag Management (Split.io)
+### Backend & Database
 - **Advanced:** API Design & Integration, REST APIs, Real-time Systems
 - **Proficient:** Authentication (Okta, OIDC), Protocol Buffers, Node.js
 - **Learning:** Supabase, PostgreSQL
-
-### **AI-Enhanced Development**
+### AI-Enhanced Development
 - **Advanced:** Claude AI for architecture planning and code review, GitHub Copilot for accelerated development
 - **Proficient:** AI-assisted debugging, prompt engineering for development workflows, AI-powered testing strategies
-
-### **Product & Design**
+### Product & Design
 - **Advanced:** Technical mentoring, Cross-functional collaboration, System-level planning
 - **Proficient:** Product strategy, User research, MVP definition, Interface design & UX decisions
 - **Familiar:** Scrum/Agile methodologies, Technical presentations, Documentation
